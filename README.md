@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @theBizarro
-- 👀 I’m interested in Web Development and Python Programming
-- 🌱 Currently working on ReactJS and Flask
+- 👋 Hi, I’m Saransh
+- 👀 A Software Engineer and a Python Geek.
+- 🌱 Currently working on MERN Stack.
 -    Looking forward to collaborate on some realtime projects.
 
 <!---
